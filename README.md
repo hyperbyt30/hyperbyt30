@@ -1,5 +1,5 @@
 # Hi, I'm shubham👋
-### Cyber Security Enthusiast | SOC Analyst | Penetration Tester
+###  Cyber Security Analyst |Cyber Security Enthusiast | SOC Analyst | Penetration Tester
 
 ## 🛡️ About Me
 - 🔭 I’m currently working on **Network Security and Log Analysis**.
